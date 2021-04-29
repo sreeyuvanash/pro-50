@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+
+    margin: 200;
+    padding-top: 0px;
+    background-color: aliceblue;
+}
+h1{
+    font-family: 'Lucida Calligraphy';
+    color: rgb(221, 255, 221);
+}
+
+.head{
+    color: aliceblue;
+    /*display: flex;
+    justify-content: stretch;*/
+}
+#back1{
+    text-align: center;
+    height: 500px;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+}
+.class1{
+    color: antiquewhite;
+}
+.craft1{
+    color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+.craft2{
+    color: aquamarine;
+    display: flex;
+    justify-content: space-around; 
+}
+.che{
+
+    background-color: black;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+
+}
+.camel{
+
+    background-color: black;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+
+}.cicada{
+
+    background-color: black;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+
+}.panda{
+
+    background-color: black;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+
+}.pigeon{
+
+    background-color: black;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+
+}.teddy{
+
+    background-color: black;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+
+}
+.video{
+    background-color: black;
+    text-align: center;
+
+    color: honeydew;
+    font-size: 100px;
+}
+.end{
+    color: ivory;
+    display: flex;
+    justify-content: space-evenly;
+    background: radial-gradient(circle, rgb(0, 0, 0) 0%, rgb(68, 68, 68) 100%);
+}
+.ao{
+    text-align: center;
+    height: 500px;
+    background: linear-gradient(148deg, rgb(41, 41, 41) 65%,rgb(0, 0, 0) 65%);
+
+}
